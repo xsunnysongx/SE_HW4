@@ -3,7 +3,7 @@
 #include <vector>
 #include <list>
 #include <iomanip>      // for setw()
-
+;
 structure Edge{
     int from, to, weight;
     Edge(){};
