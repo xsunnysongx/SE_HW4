@@ -1,0 +1,2 @@
+# SE_HW4
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/370ad46c3a5a4dae8ce43709d5c2b6f2)](https://app.codacy.com/gh/xsunnysongx/SE_HW4?utm_source=github.com&utm_medium=referral&utm_content=xsunnysongx/SE_HW4&utm_campaign=Badge_Grade)
