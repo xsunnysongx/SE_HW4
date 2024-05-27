@@ -10,6 +10,20 @@ on:
 
 permissions:
   contents: read
+  
+engines:
+  cppcheck:
+    enabled: true
+    configuration:
+      - --enable=all
+      - --inconclusive
+      - --force
+  clang-tidy:
+    enabled: true
+    configuration:
+      - -checks=*
+      - -warnings-as-errors=*
+      
 
 jobs:
   codacy-analysis:
